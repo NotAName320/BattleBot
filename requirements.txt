@@ -1,0 +1,4 @@
+discord
+pybelieva
+gspread
+discord-pretty-help
